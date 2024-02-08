@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185166742588",
+    "project_id": "final-di-manuel-prieto",
+    "storage_bucket": "final-di-manuel-prieto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185166742588:android:042ffeae7cca62afc1af39",
+        "android_client_info": {
+          "package_name": "com.example.final_di_manuel_prieto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNTBlhMWXhMoDHHrujUiTFw7He6OLcLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
